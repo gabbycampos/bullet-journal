@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bullet-journal/static/css/main.e5584f8d.chunk.css",
+    "main.css": "/bullet-journal/static/css/main.1bc19c04.chunk.css",
     "main.js": "/bullet-journal/static/js/main.8556c967.chunk.js",
     "main.js.map": "/bullet-journal/static/js/main.8556c967.chunk.js.map",
     "runtime~main.js": "/bullet-journal/static/js/runtime~main.872f98d9.js",
@@ -8,8 +8,8 @@
     "static/js/2.efb512d5.chunk.js": "/bullet-journal/static/js/2.efb512d5.chunk.js",
     "static/js/2.efb512d5.chunk.js.map": "/bullet-journal/static/js/2.efb512d5.chunk.js.map",
     "index.html": "/bullet-journal/index.html",
-    "precache-manifest.12001e17082fcd0a40180b72fbb2e632.js": "/bullet-journal/precache-manifest.12001e17082fcd0a40180b72fbb2e632.js",
+    "precache-manifest.ea0540cb5165bde38f74bdbb64fd820e.js": "/bullet-journal/precache-manifest.ea0540cb5165bde38f74bdbb64fd820e.js",
     "service-worker.js": "/bullet-journal/service-worker.js",
-    "static/css/main.e5584f8d.chunk.css.map": "/bullet-journal/static/css/main.e5584f8d.chunk.css.map"
+    "static/css/main.1bc19c04.chunk.css.map": "/bullet-journal/static/css/main.1bc19c04.chunk.css.map"
   }
 }
